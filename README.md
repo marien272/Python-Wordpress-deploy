@@ -1,4 +1,4 @@
-# Python-Wordpress-deploy
+# Python-Wordpress
 
 Ce projet a pour but de déployer automatiquement un environnement Apache2 et PHP7.2 ainsi que l'installation d'un serveur Wordpress.
 Ce script est prévu pour fonctionnement sous un environnement Debian 9.
@@ -75,8 +75,7 @@ Afin de stopper le script en cas de rencontre d'erreurs, des breakdown ont été
 Ce script est en version 1.0
 
 ## Auteurs
-
-* **Anthony DOMMERY et Marien OLYMPIO** - *Travail initial* - [marien272](https://github.com/marien272)
+[marien272](https://github.com/marien272)
 
 
 ## Licence
